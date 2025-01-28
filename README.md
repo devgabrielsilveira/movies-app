@@ -2,9 +2,8 @@
   MovieList
 </h1>
 
-<p align="center">
-  <img src="img-preview/full-screen" width="100%" />
-</p>
+  <img src="img-preview/full-screen.png" width="100%" />
+
 
 ## 💻 Projeto
 
@@ -30,9 +29,9 @@ Este projeto tem como objetivo demonstrar como consumir dados de uma API e exibi
 
 ## 📺 Projeto Responsivo
 Projeto desenvolvido com princípios de responsividade. Tela em dispositivos móveis:
-<div>
-  <img src="img-preview/full-screen" width="100%" />
-</div>
+
+  <img src="img-preview/mobile.png" width="30%" />
+
 
 
 ## 🛠 Como rodar o projeto
@@ -75,6 +74,6 @@ http://localhost:3000
 📬 Contato
 Em caso de dúvidas ou sugestões, entre em contato:
 
-Email: devgabrielsilveira@gmail.com
-LinkedIn: https://www.linkedin.com/in/gabriel-silveira-67979b18a/
-Desenvolvido por Gabriel Silveira 🚀
+Email: devgabrielsilveira@gmail.com <br>
+LinkedIn: https://www.linkedin.com/in/gabriel-silveira-67979b18a/ <br>
+<b>Desenvolvido por Gabriel Silveira</b> 🚀
