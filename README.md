@@ -1,36 +1,80 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<h1 align="center">
+  MovieList
+</h1>
 
-## Getting Started
+<p align="center">
+  <img src="img-preview/full-screen" width="100%" />
+</p>
 
-First, run the development server:
+## 💻 Projeto
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+O **MovieList** é um projeto desenvolvido para demonstrar a integração com uma **API de filmes** e exibição das informações de filmes em uma interface responsiva. O projeto utiliza **React** com **TypeScript**, **Axios** para requisições à API e **Sass** para estilização.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🚀 Tecnologias
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- React
+- TypeScript
+- Axios
+- Sass
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 📔 Conhecimentos abordados
 
-## Learn More
+- [x] Consumo de API utilizando **Axios**
+- [x] Criação de componentes reutilizáveis em **React** com **TypeScript**
+- [x] Estilização responsiva com **Sass**
+- [x] Exibição de informações dinâmicas de filmes (título, descrição, imagem, etc.)
 
-To learn more about Next.js, take a look at the following resources:
+## 📺 Finalidade
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Este projeto tem como objetivo demonstrar como consumir dados de uma API e exibir informações de forma dinâmica em uma interface de usuário. O projeto serve como exemplo de boas práticas de desenvolvimento utilizando **React**, **TypeScript** e **Axios**, com foco em uma boa organização e estruturação de componentes.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 📺 Projeto Responsivo
+Projeto desenvolvido com princípios de responsividade. Tela em dispositivos móveis:
+<div>
+  <img src="img-preview/full-screen" width="100%" />
+</div>
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🛠 Como rodar o projeto
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+
+
+2. Navegue até a pasta do projeto:
+
+bash
+Copiar
+Editar
+cd nome-do-repositorio
+
+
+3. Instale as dependências:
+
+bash
+Copiar
+Editar
+npm install
+
+
+4. Execute o projeto localmente:
+
+bash
+Copiar
+Editar
+npm start
+
+5. Acesse no navegador:
+
+arduino
+Copiar
+Editar
+http://localhost:3000
+
+📬 Contato
+Em caso de dúvidas ou sugestões, entre em contato:
+
+Email: devgabrielsilveira@gmail.com
+LinkedIn: https://www.linkedin.com/in/gabriel-silveira-67979b18a/
+Desenvolvido por Gabriel Silveira 🚀
