@@ -27,7 +27,7 @@ O **MovieList** é um projeto desenvolvido para demonstrar a integração com um
 
 Este projeto tem como objetivo demonstrar como consumir dados de uma API e exibir informações de forma dinâmica em uma interface de usuário. O projeto serve como exemplo de boas práticas de desenvolvimento utilizando **React**, **TypeScript** e **Axios**, com foco em uma boa organização e estruturação de componentes.
 
-## 📺 Projeto Responsivo
+## 📲 Projeto Responsivo
 Projeto desenvolvido com princípios de responsividade. Tela em dispositivos móveis:
 
   <img src="img-preview/mobile.png" width="30%" />
