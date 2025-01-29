@@ -1,5 +1,5 @@
 <h1 align="center">
-  MovieList
+  Movies App
 </h1>
 
   <img src="img-preview/full-screen.png" width="100%" />
@@ -7,7 +7,7 @@
 
 ## 💻 Projeto
 
-O **MovieList** é um projeto desenvolvido para demonstrar a integração com uma **API de filmes** e exibição das informações de filmes em uma interface responsiva. O projeto utiliza **React** com **TypeScript**, **Axios** para requisições à API e **Sass** para estilização.
+O **Movies App** é um projeto desenvolvido para demonstrar a integração com uma **API de filmes** e exibição das informações de filmes em uma interface responsiva. O projeto utiliza **React** com **TypeScript**, **Axios** para requisições à API e **Sass** para estilização.
 
 ## 🚀 Tecnologias
 
@@ -37,38 +37,26 @@ Projeto desenvolvido com princípios de responsividade. Tela em dispositivos mó
 ## 🛠 Como rodar o projeto
 
 1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+
+git clone https://github.com/seu-usuario/nome-do-repositorio.git
 
 
 2. Navegue até a pasta do projeto:
 
-bash
-Copiar
-Editar
 cd nome-do-repositorio
 
 
 3. Instale as dependências:
 
-bash
-Copiar
-Editar
 npm install
 
 
 4. Execute o projeto localmente:
 
-bash
-Copiar
-Editar
 npm start
 
 5. Acesse no navegador:
 
-arduino
-Copiar
-Editar
 http://localhost:3000
 
 📬 Contato
